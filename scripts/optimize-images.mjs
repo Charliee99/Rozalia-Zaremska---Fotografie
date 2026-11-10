@@ -16,10 +16,10 @@ const ONLY = process.env.ONLY;
 const MANIFEST = [
   { src: 'profilowe.jpg', slug: 'rozalia-zaremska-fotografka-warszawa' },
   { src: 'Kopia DSC03502.jpg', slug: 'sesja-indywidualna-warszawa' },
-  { src: 'Kopia DSC03031.jpg', slug: 'sesja-wizerunkowa-warszawa' },
+  { src: 'Kopia DSC09400.jpg', slug: 'sesja-wizerunkowa-warszawa' },
   { src: 'Kopia IMG_8632.jpg', slug: 'sesja-artystyczna-warszawa' },
   { src: 'Kopia DSC09285.jpg', slug: 'sesja-brzuszkowa-warszawa' },
-  { src: 'Kopia DSC09445.jpg', slug: 'sesja-dla-par-i-rodzinna-warszawa' },
+  { src: 'IMG_3540-2.jpg', slug: 'sesja-rodzinna-warszawa' },
   { src: 'Kopia DSC09445.jpg', slug: 'sesja-narzeczenska-warszawa', crop: { left: 1100, top: 700, width: 2600, height: 3250 } },
   { src: 'Kopia DSC01221.jpg', slug: 'portret-kobiecy-w-zlotym-swietle' },
   { src: 'Kopia DSC01389.jpg', slug: 'portret-modowy-o-zachodzie-slonca' },

@@ -27,7 +27,7 @@ robots.txt, sitemap.xml    SEO
    Instagram (`@rozalia.photos`, link „Portfolio”) i Facebook (`rozalia.photos`) są już prawdziwe.
 3. **Opinie** – sekcja `#opinie` zawiera prawdziwe opinie z Facebooka (bez nazwisk). Liczba opinii („37 opinii”) jest wpisana ręcznie – aktualizuj ją co jakiś czas.
 4. **Ceny** – w kafelkach oferty: wszystkie sesje od 450 zł / 15 zdjęć, wizerunkowa od 400 zł / 8 zdjęć. Opisy zakresu (czas sesji itp.) warto potwierdzić.
-5. **Zdjęcie do sesji narzeczeńskiej** – tymczasowo to kadr z bliska z tego samego zdjęcia co sesja rodzinna i dla par; najlepiej podmienić na osobne zdjęcie z sesji narzeczeńskiej.
+5. **Zdjęcie do sesji narzeczeńskiej** – to kadr z bliska ze zdjęcia pary (`Kopia DSC09445.jpg`); można podmienić na zdjęcie z prawdziwej sesji narzeczeńskiej.
 6. **Polityka prywatności** – to wzór; warto uzupełnić dane administratora (np. NIP, jeśli jest działalność) i sprawdzić treść.
 7. **Domena** – jeśli strona będzie pod własną domeną, zamień `https://charliee99.github.io/Rozalia-Zaremska---Fotografie/` w `index.html`, `polityka-prywatnosci.html`, `robots.txt` i `sitemap.xml` (oraz pole `redirect` w formularzu).
 
