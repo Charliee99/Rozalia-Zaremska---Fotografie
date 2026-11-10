@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charliee99.github.io/Rozalia-Zaremska---Fotografie/sitemap.xml

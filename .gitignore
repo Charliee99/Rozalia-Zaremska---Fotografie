@@ -1,0 +1,7 @@
+# Oryginalne zdjęcia w pełnej rozdzielczości – trzymane tylko lokalnie
+Zdjęcie - strona/
+zdjecia-zrodlowe/
+node_modules/
+.DS_Store
+Thumbs.db
+.claude/
