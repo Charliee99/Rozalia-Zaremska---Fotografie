@@ -20,11 +20,10 @@ robots.txt, sitemap.xml    SEO
 
 ## ✅ Do zrobienia przed startem
 
-1. **Klucz formularza (Web3Forms)**
-   - Wejdź na <https://web3forms.com>, wpisz adres e-mail Rozalii i odbierz klucz `access_key` z maila.
-   - W `index.html` zamień `WSTAW_KLUCZ_WEB3FORMS` na otrzymany klucz.
-   - Wiadomości trafiają na ten adres, a przycisk „Odpowiedz” w poczcie odpisuje bezpośrednio klientowi (Reply-To = e-mail klienta).
-2. **E-mail** – podmień `kontakt@rozaliazaremska.pl` na prawdziwy adres we wszystkich plikach `.html` i w `assets/js/main.js` (szukaj i zamień).
+1. ~~**Klucz formularza (Web3Forms)**~~ – ustawiony (pole `access_key` w formularzu w `index.html`).
+   Wiadomości trafiają na adres przypisany do klucza w Web3Forms, a przycisk „Odpowiedz” w poczcie odpisuje bezpośrednio klientowi (Reply-To = e-mail klienta).
+   Klucz Web3Forms jest z założenia publiczny (widoczny w kodzie strony) – służy tylko do wysyłania wiadomości na ten jeden adres.
+2. ~~**E-mail**~~ – `rozalia.photos@gmail.com`. Przy zmianie adresu podmień go we wszystkich plikach `.html` i w `assets/js/main.js` (szukaj i zamień) oraz wygeneruj nowy klucz Web3Forms.
    Instagram (`@rozalia.photos`, link „Portfolio”) i Facebook (`rozalia.photos`) są już prawdziwe.
 3. **Opinie** – sekcja `#opinie` zawiera prawdziwe opinie z Facebooka (bez nazwisk). Liczba opinii („37 opinii”) jest wpisana ręcznie – aktualizuj ją co jakiś czas.
 4. **Ceny** – w kafelkach oferty: wszystkie sesje od 450 zł / 15 zdjęć, wizerunkowa od 400 zł / 8 zdjęć. Opisy zakresu (czas sesji itp.) warto potwierdzić.

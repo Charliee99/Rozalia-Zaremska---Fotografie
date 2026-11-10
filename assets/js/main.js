@@ -88,7 +88,7 @@
   var startedAt = Date.now();
   var MIN_FILL_MS = 3000; // szybsze wysłanie = prawdopodobnie bot
   var ENDPOINT = form.getAttribute('action');
-  var CONTACT_EMAIL = 'kontakt@rozaliazaremska.pl';
+  var CONTACT_EMAIL = 'rozalia.photos@gmail.com';
 
   // Przyciski „Zapytaj” w ofercie wybierają rodzaj sesji w formularzu
   document.querySelectorAll('[data-session]').forEach(function (btn) {
